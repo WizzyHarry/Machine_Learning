@@ -2,9 +2,9 @@
 
 # LIS4930 - Artificial Intelligence Applications
 
-# # Keith Faunce
+## Keith Faunce
 
-# # # LIS4930 Requirements:
+### LIS4930 Requirements:
 
 *Course Work Links*
 
@@ -33,4 +33,4 @@
     - TBD
 
 7. [P2 README.md](p2/README.md "Keiths P2 README.md file")
-    -TBD
+    - TBD
