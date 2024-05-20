@@ -32,25 +32,25 @@
 >
 > #### Git commands w/short descriptions:
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+1. git init -
+2. git status -
+3. git add -
+4. git commit -
+5. git push -
+6. git pull - 
+7. another command
 
 #### Assignment Screenshots:
 
-*Screenshot of AMPPS running http://localhost*:
+### Screenshot of a1_tip_calculator application running (IDLE):
 
 ![AMPPS Installation Screenshot](img/ampps.png)
 
-*Screenshot of running java Hello*:
+### Screenshot of a1_tip_calculator application running (Visual Studio Code):
 
-![JDK Installation Screenshot](img/jdk_install.png)
+![Python Installation Screenshot VS Code](img/a1_tip_calculator_vs_code.png)
 
-*Screenshot of Android Studio - My First App*:
+### A1 Jupyter Notebook:
 
 ![Android Studio Installation Screenshot](img/android.png)
 
