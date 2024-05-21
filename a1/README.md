@@ -44,7 +44,7 @@
 
 ### Screenshot of a1_tip_calculator application running (IDLE):
 
-![AMPPS Installation Screenshot](img/ampps.png)
+![Python Installation Screenshot IDLE](img/a1_tip_calculator_idle.png)
 
 ### Screenshot of a1_tip_calculator application running (Visual Studio Code):
 
