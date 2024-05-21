@@ -44,15 +44,15 @@
 
 ### Screenshot of a1_tip_calculator application running (IDLE):
 
-![Python Installation Screenshot IDLE](img/a1_tip_calculator_idle.png)
+![Python Installation Screenshot IDLE](img/a1_tip_calculator_idle.PNG)
 
 ### Screenshot of a1_tip_calculator application running (Visual Studio Code):
 
-![Python Installation Screenshot VS Code](img/a1_tip_calculator_vs_code.png)
+![Python Installation Screenshot VS Code](img/a1_tip_calculator_vs_code.PNG)
 
 ### A1 Jupyter Notebook:
 
-![tip_calculator.ipynb](img/a1_jupyter_notebook.png "A1 Jupyter Notebook")
+![tip_calculator.ipynb](img/a1_jupyter_notebook.PNG "A1 Jupyter Notebook")
 
 
 #### Tutorial Links:
