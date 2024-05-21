@@ -32,13 +32,13 @@
 >
 > #### Git commands w/short descriptions:
 
-1. git init -
-2. git status -
-3. git add -
-4. git commit -
-5. git push -
-6. git pull - 
-7. another command
+1. git init - creates an empty git repository
+2. git status - shows which files have been staged, which haven't, and which files git is tracking
+3. git add - saves current project into commit history
+4. git commit - captures the current saved changes
+5. git push - push saved changes that git has committed 
+6. git pull - brings changes from a different repository to the current
+7. git branch - list all branches in your repository and your current branch
 
 #### Assignment Screenshots:
 
@@ -52,7 +52,7 @@
 
 ### A1 Jupyter Notebook:
 
-![Android Studio Installation Screenshot](img/android.png)
+![tip_calculator.ipynb](img/a1_jupyter_notebook.png "A1 Jupyter Notebook")
 
 
 #### Tutorial Links:
