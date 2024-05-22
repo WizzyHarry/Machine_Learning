@@ -3,7 +3,7 @@
 >Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
 >
 
-# AI Application Devolpment 
+# Artificial Intelligence Application
 
 ## Keith Faunce
 
