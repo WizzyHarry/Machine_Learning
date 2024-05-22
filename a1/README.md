@@ -23,7 +23,7 @@
 #### README.md file should include the following items:
 
 * Screenshot of a1_tip_calculator application running
-* Link to A1
+* Link to a1 .ipynb file [tip_calculator.ipynb](a1_tip_calculator/tip_calculator.ipynb "A1 jupyter notebook")
 * git commands w/short descriptions
 
 > This is a blockquote.
