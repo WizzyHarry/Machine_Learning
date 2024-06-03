@@ -7,58 +7,49 @@
 
 ## Keith Faunce
 
-### Assignment 1 Requirements:
+### Assignment 2 Requirements:
 
-*Four Parts:*
+**Data Analysis & Visualization Steps**
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Questions
-4. Bitbucket repo links:
+1. Get Data
+2. Clean the Data
+3. Prepare the Data
+4. Analyze the Data
+5. Display the Data
+6. Questions
 
-   a) this assignment and
-
-   b) the completed tutorial (bitbucketstationlocations).
 
 #### README.md file should include the following items:
 
-* Screenshot of a1_tip_calculator application running
-* Link to a1 .ipynb file [tip_calculator.ipynb](a1_tip_calculator/tip_calculator.ipynb "A1 jupyter notebook")
-* git commands w/short descriptions
-
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
-
-1. git init - creates an empty git repository
-2. git status - shows which files have been staged, which haven't, and which files git is tracking
-3. git add - saves current project into commit history
-4. git commit - captures the current saved changes
-5. git push - push saved changes that git has committed 
-6. git pull - brings changes from a different repository to the current
-7. git branch - list all branches in your repository and your current branch
+* Screenshot(s) of Mortality Data running in jupyter lab
+* Link to a2 .ipynb file [a2.ipynb](a2/a2.ipynb "A2 jupyter lab")
 
 #### Assignment Screenshots:
 
-### Screenshot of a1_tip_calculator application running (IDLE):
+### Screenshots of A2 running in Jupyter Lab
 
-![Python Installation Screenshot IDLE](img/a1_tip_calculator_idle.PNG)
+![A2 Picture One](img2/a2_mortdata_p1.PNG)
 
-### Screenshot of a1_tip_calculator application running (Visual Studio Code):
+![A2 Picture Two](img2/a2_mortdata_p2.PNG)
 
-![Python Installation Screenshot VS Code](img/a1_tip_calculator_vs_code.PNG)
+![A2 Picture Three](img2/a2_mortdata_p3.PNG)
 
-### A1 Jupyter Notebook:
+![A2 Picture Four](img2/a2_mortdata_p4.PNG)
 
-![tip_calculator.ipynb](img/a1_jupyter_notebook.PNG "A1 Jupyter Notebook")
+![A2 Picture Five](img2/a2_mortdata_p5.PNG)
 
+![A2 Picture Six](img2/a2_mortdata_p6.PNG)
 
-#### Tutorial Links:
+![A2 Picture Seven](img2/a2_mortdata_p7.PNG)
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/username/bitbucketstationlocations/ "Bitbucket Station Locations")
+![A2 Picture Eight](img2/a2_mortdata_p8.PNG)
 
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/lis4930_keithfaunce/bitbucketstationlocations/src/main/ "My Team Quotes Tutorial")
+![A2 Picture Nine](img2/a2_mortdata_p9.PNG)
+
+![A2 Picture Ten](img2/a2_mortdata_p10.PNG)
+
+![A2 Picture Eleven](img2/a2_mortdata_p11.PNG)
+
+![A2 Picture Twelve](img2/a2_mortdata_p12.PNG)
+
+![A2 Picture Thirtheen](img2/a2_mortdata_p13.PNG)
