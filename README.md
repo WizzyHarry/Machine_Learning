@@ -18,7 +18,11 @@
     - Answer questions (Chs. 1, 2)
 
 2. [A2 README.md](a2/README.md "Keiths A2 README.md file")
-    - TBD
+    - Using pandas database:
+    - Get & Clean Data
+    - Prepare & Analyze Data
+    - Display said Data
+    - Answer questions (Chs. 3, 4)
 
 3. [A3 README.md](a3/README.md "Keiths A3 README.md file")
     - TBD
