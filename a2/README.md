@@ -22,7 +22,7 @@
 #### README.md file should include the following items:
 
 * Screenshot(s) of Mortality Data running in jupyter lab
-* Link to a2 .ipynb file [a2.ipynb](a2/a2.ipynb "A2 jupyter lab")
+* Link to a2 .ipynb file [a2.ipynb](a2.ipynb "A2 jupyter lab")
 
 #### Assignment Screenshots:
 
