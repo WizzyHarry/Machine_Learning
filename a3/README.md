@@ -65,9 +65,7 @@
 
 ![A3 Picture 18](img3/a3_mortalitydata_p18.PNG)
 
-<figure markdown>
+
   ![ss4](img3/ss4_SS.png){: style="height:60px"}
   ![ss5](img3/ss5_ss.png){: style="height:60px"}
   ![ss6](img3/ss6_ss.png){: style="height:60px"}
-  <figcaption>Partners</figcaption>
-</figure>
