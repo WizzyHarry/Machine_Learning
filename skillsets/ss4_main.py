@@ -12,5 +12,5 @@ def main():
     f.calculate_bmi(h, w)
 
 
-    if __name__ == "__main__":
-        main()
+if __name__ == "__main__":
+    main()

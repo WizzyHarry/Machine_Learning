@@ -72,4 +72,4 @@
 
 Skill Set 4             | Skill Set 5             | Skill Set 6             |
 ----------------------- | ----------------------- | ----------------------- |
-![ss4](img3/ss4_SS.png) | ![ss5](img3/ss5_ss.png) | ![ss6](img3/ss6_ss.png) |
+![ss4](img3/2ss4.PNG) | ![ss5](img3/2ss5.PNG) | ![ss6](img3/2ss6.PNG) |
