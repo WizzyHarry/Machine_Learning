@@ -66,6 +66,8 @@
 ![A3 Picture 18](img3/a3_mortalitydata_p18.PNG)
 
 
-  ![ss4](img3/ss4_SS.png){width = 60 height = 60}
-  ![ss5](img3/ss5_ss.png){width = 60 height = 60}
-  ![ss6](img3/ss6_ss.png){width = 60 height = 60}
+#### Skill Sets 4-6
+
+Skill Set 4             | Skill Set 5             | Skill Set 6             |
+----------------------- | ----------------------- | ----------------------- |
+![ss4](img3/ss4_SS.png) | ![ss5](img3/ss5_ss.png) | ![ss6](img3/ss6_ss.png) |
