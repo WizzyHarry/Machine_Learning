@@ -68,6 +68,8 @@
 
 
 ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) | ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) |
+----------------------------------------------- | ----------------------------------------------- |
+![A3 Picture One](img3/a3_mortalitydata_p1.PNG) | ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) |
 ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) | ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) |
 ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) | ![A3 Picture One](img3/a3_mortalitydata_p1.PNG) |
 
