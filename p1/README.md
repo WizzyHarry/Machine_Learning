@@ -28,7 +28,7 @@
 
 ### Assignment Screenshots:
 
-#### Screenshots of A3 running in jupyter lab 
+#### Screenshots of P1 running in jupyter lab 
 
 ![P1 Picture One](imgp1/p1_scan_p1.PNG)
 
