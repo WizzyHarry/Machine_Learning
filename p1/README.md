@@ -7,69 +7,66 @@
 
 ## Keith Faunce
 
-### Assignment 3 Requirements:
+### Project 1 Requirements
 
 **Data Analysis & Visualization Steps**
 
-1. Get Data
-2. Clean the Data
-3. Prepare the Data
-4. Analyze the Data
-5. Display the Data
-6. Visualize the Data (Various Charts)
-7. Questions
+1. Import necessary packages
+2. Review data
+3. Prepare the data
+4. Filter data
+5. Display data
+6. Visualize data, graphs, tables
+7. Create predicition analysis
+8. Questions
 
 #### README.md file should include the following items:
 
-* Screenshot(s) of Mortality_Data running in jupyter lab
-* Link to a3 .ipynb file [a3.ipynb](a3.ipynb "A3 jupyter notebook")
+* Screenshot(s) of text_parser running in jupyter lab
+* Link to p1 .ipynb file [p1.ipynb](p1.ipynb "P1 jupyter notebook")
 
 
 ### Assignment Screenshots:
 
 #### Screenshots of A3 running in jupyter lab 
 
-![A3 Picture One](img3/a3_mortalitydata_p1.PNG)
+![P1 Picture One](imgp1/p1_scan_p1.PNG)
 
-![A3 Picture Two](img3/a3_mortalitydata_p2.PNG)
+![P1 Picture Two](imgp1/p1_scan_p2.PNG)
 
-![A3 Picture 3](img3/a3_mortalitydata_p3.PNG)
+![P1 Picture Three](imgp1/p1_scan_p3.PNG)
 
-![A3 Picture 4](img3/a3_mortalitydata_p4.PNG)
+![P1 Picture Four](imgp1/p1_scan_p4.PNG)
 
-![A3 Picture 5](img3/a3_mortalitydata_p5.PNG)
+![P1 Picture Five](imgp1/p1_scan_p5.PNG)
 
-![A3 Picture 6](img3/a3_mortalitydata_p6.PNG)
+![P1 Picture Six](imgp1/p1_scan_p6.PNG)
 
-![A3 Picture 7](img3/a3_mortalitydata_p7.PNG)
+![P1 Picture Seven](imgp1/p1_scan_p7.PNG)
 
-![A3 Picture 8](img3/a3_mortalitydata_p8.PNG)
+![P1 Picture Eight](imgp1/p1_scan_p8.PNG)
 
-![A3 Picture 9](img3/a3_mortalitydata_p9.PNG)
+![P1 Picture Nine](imgp1/p1_scan_p9.PNG)
 
-![A3 Picture 10](img3/a3_mortalitydata_p10.PNG)
+![P1 Picture Ten](imgp1/p1_scan_p10.PNG)
 
-![A3 Picture 11](img3/a3_mortalitydata_p11.PNG)
+![P1 Picture Eleven](imgp1/p1_scan_p11.PNG)
 
-![A3 Picture 12](img3/a3_mortalitydata_p12.PNG)
+![P1 Picture Twelve](imgp1/p1_scan_p12.PNG)
 
-![A3 Picture 13](img3/a3_mortalitydata_p13.PNG)
+![P1 Picture Thirteen](imgp1/p1_scan_p13.PNG)
 
-![A3 Picture 14](img3/a3_mortalitydata_p14.PNG)
+![P1 Picture Fourteen](imgp1/p1_scan_p14.PNG)
 
-![A3 Picture 15](img3/a3_mortalitydata_p15.PNG)
+![P1 Picture Fifteen](imgp1/p1_scan_p15.png)
 
-![A3 Picture 16](img3/a3_mortalitydata_p16.PNG)
-
-![A3 Picture 17](img3/a3_mortalitydata_p17.PNG)
-
-![A3 Picture 18](img3/a3_mortalitydata_p18.PNG)
+![P1 Picture Sixteen](imgp1/p1_scan_p16.png)
 
 
 
 
-#### Skill Sets 4-6
+#### Skill Sets 7-9
 
-Skill Set 4             | Skill Set 5             | Skill Set 6             |
+Skill Set 7             | Skill Set 8             | Skill Set 9             |
 ----------------------- | ----------------------- | ----------------------- |
-![ss4](img3/2ss4.PNG) | ![ss5](img3/2ss5.PNG) | ![ss6](img3/2ss6.PNG) |
+![ss4](imgp1/ss7.PNG) | ![ss5](imgp1/ss8.PNG) | ![ss6](imgp1/ss9.PNG) |

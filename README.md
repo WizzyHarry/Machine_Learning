@@ -38,7 +38,11 @@
     - TBD
 
 6. [P1 README.md](p1/README.md "Keiths P1 README.md file")
-    - TBD
+    - Import needed packages to review data (nltk)
+    - Prepare and filter data for analysis
+    - Display data, standard and charts
+    - Prediction analysis
+    - Answer questions (Chs. 7, 8)
 
 7. [P2 README.md](p2/README.md "Keiths P2 README.md file")
     - TBD
