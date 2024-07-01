@@ -32,7 +32,12 @@
     - Answer questions (Chs. 5, 6)
 
 4. [A4 README.md](a4/README.md "Keiths A4 README.md file")
-    - TBD
+    - Compare/Contrast similarites & differences among AI v. Machine Learning v. Deep Learning
+    - Utilize Seaborn for data visualization (not explictly)
+    - Use simple linear regression (to make predictions)
+    - Create linear model
+    - Plot regression line
+    - Answer questions (Chs. 9, 10)
 
 5. [A5 README.md](a5/README.md "Keiths A5 README.md file")
     - TBD
