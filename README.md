@@ -40,7 +40,10 @@
     - Answer questions (Chs. 9, 10)
 
 5. [A5 README.md](a5/README.md "Keiths A5 README.md file")
-    - TBD
+    - Identify correlations
+    - Utilize linear regression
+    - Create linear model/plot regression line
+    - Answer questions (Chs. 11, 12)
 
 6. [P1 README.md](p1/README.md "Keiths P1 README.md file")
     - Import needed packages to review data (nltk)
