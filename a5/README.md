@@ -65,7 +65,6 @@
 
 #### Skill Sets 4-6
 
-Skill Set 10             | Skill Set 11             | Skill Set 12             |
+Skill Set 14             | Skill Set 14             | Skill Set 14             |
 ------------------------ | ------------------------ | ------------------------ |
-![ss10](img4/ss10.PNG) | ![ss11](img4/ss11.PNG) | ![ss12p1](img4/ss12_p1.PNG) |
-!![ss12p2](img4/ss12_p2.PNG) | ![ss12p3](img4/ss12_p3.PNG) | ![ss12p4](img4/ss12_p4.PNG) |
+![s14 Pic1](s14_p1.PNG)  | ![s14 Pic2](s14_p2.PNG)  | ![s14 Pic3](s14_p3.PNG)  |
