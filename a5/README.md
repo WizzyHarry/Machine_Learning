@@ -22,7 +22,7 @@
 
 * Screenshot(s) of Predictive Analysis running in jupyter lab
 * Link to a5 .ipynb file [a5.ipynb](a5.ipynb "A5 jupyter notebook")
-* Link to skillset 13 environment package list file [[testenv_packages.txt](conda_env/pack_list_r.txt.txt)]
+* Link to skillset 13 environment package list file [pack_list_r.txt](conda_env/pack_list_r.txt)
 * Link to lis4930 environment package list file [a5_packages.txt](conda_env/a5_packages.txt)
 
 
