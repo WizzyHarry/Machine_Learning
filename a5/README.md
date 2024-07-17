@@ -63,8 +63,10 @@
 ![Package List](package_ver.PNG)
 
 
-#### Skill Sets 4-6
+#### Skill Set 14
 
-Skill Set 14             | Skill Set 14             | Skill Set 14             |
------------------------- | ------------------------ | ------------------------ |
-![s14 Pic1](s14_p1.PNG)  | ![s14 Pic2](s14_p2.PNG)  | ![s14 Pic3](s14_p3.PNG)  |
+![s14 Pic1](img5/s14_p1.PNG)   
+
+![s14 Pic2](img5/s14_p2.PNG)   
+
+![s14 Pic3](img5/s14_p3.PNG)  
