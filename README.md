@@ -53,4 +53,8 @@
     - Answer questions (Chs. 7, 8)
 
 7. [P2 README.md](p2/README.md "Keiths P2 README.md file")
-    - TBD
+    - Describe deep learning & neural networks
+    - Setup conda environment
+    - Analyze images
+    - Build and train CNN to classify images
+    - Answer questions (Chs. 13-15)
